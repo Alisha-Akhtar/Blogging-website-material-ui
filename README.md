@@ -79,3 +79,8 @@ This project was developed to practice:
 Alisha Akhtar
 
 Frontend Developer | React.js Enthusiast
+SCREENSHOT:
+<img width="817" height="435" alt="image" src="https://github.com/user-attachments/assets/a8957722-cf63-4c51-9fcd-60b3aff7c07f" />
+<img width="314" height="451" alt="image" src="https://github.com/user-attachments/assets/3e8523ad-a195-4893-b9fc-285e7dfdea36" />
+
+
