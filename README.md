@@ -76,7 +76,6 @@ This project was developed to practice:
 * Dark mode support
 
 ## Author
-
 Alisha Akhtar
 
 Frontend Developer | React.js Enthusiast
